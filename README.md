@@ -1,5 +1,14 @@
 Azure HDInsight es un servicio de análisis en la nube completamente administrado que permite a las organizaciones procesar grandes volúmenes de datos mediante marcos de código abierto como Apache Hadoop, Spark, Hive, Kafka, y HBase. Diseñado para manejar tanto datos en tiempo real como históricos, HDInsight se adapta a una gran variedad de necesidades de procesamiento.
 
+- **Almacenamiento de datos**
+![image](https://github.com/user-attachments/assets/aa430040-a85c-46a3-a033-8ebfb4d41d49)
+
+- **Internet de las cosas (IoT)**
+![image](https://github.com/user-attachments/assets/cd59197f-9549-4b81-a3a6-f88fa37976f0)
+
+- **Híbrido**
+![image](https://github.com/user-attachments/assets/545e38c7-c002-4f99-ad26-e3136dfbce38)
+
 HDInsight destaca por su capacidad de escalabilidad y flexibilidad. Los recursos de almacenamiento y procesamiento pueden escalarse de forma independiente, permitiendo un ajuste adecuado según las demandas de carga de trabajo. Además, su estructura admite una amplia gama de configuraciones para diferentes tipos de datos, lo cual lo convierte en una plataforma versátil para el manejo de cargas de trabajo de análisis de datos.
 
 Uno de los beneficios clave de Azure HDInsight es su tolerancia a fallos. Los nodos principales cuentan con máquinas virtuales de respaldo, garantizando una alta disponibilidad con un SLA del 99.9%. Esto significa que incluso en escenarios donde ocurren fallos, los sistemas pueden recuperarse sin una pérdida significativa de eficiencia o datos.
