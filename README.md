@@ -22,7 +22,7 @@ Procesamiento de Datos en Azure HDInsight
 
 En un clúster típico de HDInsight, el procesamiento de datos se lleva a cabo mediante nodos principales y nodos de trabajo. Los nodos principales (Head Nodes) se encargan de gestionar las solicitudes de los clientes y coordinar las tareas en el clúster, mientras que los nodos de trabajo (Worker Nodes) realizan el procesamiento de los datos asignado por los nodos principales. Este enfoque distribuido permite realizar tareas de análisis de grandes volúmenes de datos de forma eficiente. Además, YARN (Yet Another Resource Negotiator) es utilizado para gestionar los recursos y programar las tareas en el clúster, asegurando una distribución óptima de las cargas de trabajo.
 
-![image](https://github.com/user-attachments/assets/717e4933-a12f-46d9-b685-92d9841002fc) ![image](https://github.com/user-attachments/assets/1de83103-2c60-45e3-83fb-4c3499457ce3)
+![image](https://github.com/user-attachments/assets/717e4933-a12f-46d9-b685-92d9841002fc)
 
 
 
