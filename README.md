@@ -7,6 +7,7 @@ Azure HDInsight es un servicio de análisis en la nube completamente administrad
 ![image](https://github.com/user-attachments/assets/cd59197f-9549-4b81-a3a6-f88fa37976f0)
 
 - **Híbrido**
+  
 ![image](https://github.com/user-attachments/assets/545e38c7-c002-4f99-ad26-e3136dfbce38)
 
 HDInsight destaca por su capacidad de escalabilidad y flexibilidad. Los recursos de almacenamiento y procesamiento pueden escalarse de forma independiente, permitiendo un ajuste adecuado según las demandas de carga de trabajo. Además, su estructura admite una amplia gama de configuraciones para diferentes tipos de datos, lo cual lo convierte en una plataforma versátil para el manejo de cargas de trabajo de análisis de datos.
